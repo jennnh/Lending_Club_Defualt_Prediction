@@ -1,0 +1,3 @@
+# Lending_Club_Defualt_Prediction
+
+This project aims to predict the probability of loan default of Lending Club given a user's historical credit information and loan information. Specifically, I used logistic regression, random forest models, and support vector machines to predict whether a loan will be fully paid or not. The random forest classifier achieves the best performance, with a 0.892 score in terms of the AUC-ROC curve. Based on the results, I also provide several recommendations that help investors to differentiate important features from hundreds of features when making financial decisions. 
